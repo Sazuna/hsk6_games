@@ -1,4 +1,5 @@
-# HSK 6 Trainer
+# HSK 6 Games
+Games for HSK 6 Chinese learners
 
 ## Data
 The dataset is extracted from HSK 6 mock exams' pdfs.
